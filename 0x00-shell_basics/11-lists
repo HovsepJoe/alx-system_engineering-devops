@@ -1,7 +1,2 @@
 #!/bin/bash
-:r !ls -la
-:cd ..
-:r !ls -la
-:cd /boot
-:r !ls -la
-:cd -
+ls -la cd .. ls -la cd /boot ls -la
